@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a penguin.
+- 👋 Hi, I’m a penguin🐧.
 - 👀 I’m interested in music and football.
 - 🌱 I’m currently learning CS.
 
